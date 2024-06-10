@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Java_Algoritma {
 
 	public static void karakterDizisiCizdir(String input) {
-
+System.out.println("deneme");
 		char harf;// girilen input değişkeninin içinde gezinmek için oluşturduğum char değişkeni
 		char harf2;// kullanacağım indeksten önce sayı var mı diye kontrol etmek için oluşturduğum
 					// char değişkeni
