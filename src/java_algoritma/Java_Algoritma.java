@@ -11,7 +11,7 @@ public class Java_Algoritma {
 
 	public static void karakterDizisiCizdir(String input) {
 
-		char harf;// girilen input değişkeninin içinde gezinmek için oluşturduğum char değişkeni
+		char harf;// girilen input değişkeninin içinde gezinmek için oluşturduğum char değişkeni.
 		char harf2;// kullanacağım indeksten önce sayı var mı diye kontrol etmek için oluşturduğum
 					// char değişkeni
 		for (int i = 0; i < input.length(); i++) {// input değişkenindeki cümlenin uzunluğu kadar döngü oluşturdum
