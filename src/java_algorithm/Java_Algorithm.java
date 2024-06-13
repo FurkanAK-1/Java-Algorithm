@@ -1,6 +1,6 @@
 /**
  *
- * @author Furkan AK @Kowachka.....aa
+ * @author Furkan AK @Kowachka
  */
 
 package java_algorithm;
