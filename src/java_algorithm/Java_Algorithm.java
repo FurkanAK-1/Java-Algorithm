@@ -11,7 +11,7 @@ public class Java_Algorithm {
 
 	public static void drawCharacterArray(String input) {
 
-		char letter1212;
+		char letter12;
 		char letter2;
 
 		for (int i = 0; i < input.length(); i++) {
